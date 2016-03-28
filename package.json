@@ -1,0 +1,27 @@
+{
+  "name": "grunt-verbose-fails-example",
+  "version": "0.0.1",
+  "description": "Shows grunt verbose fail",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matmar10/grunt-verbose-fails-example.git"
+  },
+  "keywords": [
+    "grunt",
+    "test"
+  ],
+  "author": "Matthew J Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matmar10/grunt-verbose-fails-example/issues"
+  },
+  "homepage": "https://github.com/matmar10/grunt-verbose-fails-example",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^1.1.0"
+  }
+}
